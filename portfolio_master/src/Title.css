@@ -1,0 +1,60 @@
+.title_heading{
+    font-family: "eurostile", sans-serif;
+    font-size: 60px;
+    font-weight: 500;
+    color: #0a0a0a !important;
+    line-height: 1.125 !important;
+  
+  }
+  .animate-charcter
+  {
+     
+    background-image: linear-gradient(
+      -225deg,
+      #4224b2 0%,
+      #79033a 29%,
+      #ff1361 67%,
+      #367E18 100%
+    );
+    background-size: auto auto;
+    background-clip: border-box;
+    background-size: 200% auto;
+    color: #130000;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: textclip 2s linear infinite;
+    
+        font-size: 90px;
+  }
+  
+  .title{
+    top: 140px;
+    width: 80%;
+    height: 80%;
+    position: absolute;
+    margin-left: 20%;
+    
+  }
+  .react-rotating-text-cursor {
+    color: rgb(49, 14, 14);
+    animation: blinking-cursor 0.8s cubic-bezier(0.68, 0.01, 0.01, 0.99) 0s infinite;
+  }
+   
+  @keyframes blinking-cursor {
+    0% {
+      opacity: 0;
+    }
+    50% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 0;
+    }
+  }
+  .particles-js{
+    position: relative;
+    height: auto;
+  }
+  
