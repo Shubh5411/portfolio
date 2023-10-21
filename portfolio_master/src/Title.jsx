@@ -1,5 +1,6 @@
 import React from 'react';
 import './Title.css';
+import ReactRotatingText from 'react-rotating-text';
 
 const Title = () => {
   return (
