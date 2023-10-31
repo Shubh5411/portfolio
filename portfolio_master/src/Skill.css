@@ -1,0 +1,17 @@
+
+.card_img{
+    height: 50px;
+    width: 50px;
+    margin: 20px;
+}
+.card_category{
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
+}
+.card_info{
+    font-family: 'Times New Roman', Times, serif;
+}
+.card{
+    align-items: center;
+}

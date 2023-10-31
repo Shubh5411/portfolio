@@ -37,6 +37,7 @@
     margin-left: 20%;
     
   }
+  
   .react-rotating-text-cursor {
     color: rgb(49, 14, 14);
     animation: blinking-cursor 0.8s cubic-bezier(0.68, 0.01, 0.01, 0.99) 0s infinite;
@@ -53,8 +54,5 @@
       opacity: 0;
     }
   }
-  .particles-js{
-    position: relative;
-    height: auto;
-  }
   
+   
